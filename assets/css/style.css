@@ -29,6 +29,7 @@ h1 {
     padding: 20px;
     background-image: url(../imagens/minecraft.png);
     background-size: 8%;
+    border-top: #70B237 solid 14px;
 }
 
 h2 {
